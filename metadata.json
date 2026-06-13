@@ -1,0 +1,6 @@
+{
+  "name": "Desi Barber Fades",
+  "description": "Premium minimalist barber shop with an AI-powered Style Match tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
